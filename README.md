@@ -7,7 +7,7 @@ Acceptance Criteria:
 ---------------------------------------------------------------------------
 1. Create a single page web application with a login screen (username, password).
 2. Demonstrate user login and authentication using Spring Security with different roles (USER and ADMIN).
-3. Upon login, present normal user a screen to submit feedback.
+3. Upon login, present user a screen to submit feedback.
 
    		Topic (drop down list)
    
